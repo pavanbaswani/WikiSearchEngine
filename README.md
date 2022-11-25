@@ -3,9 +3,8 @@ This repository consists of the codebase to build index files on wikipedia dump 
 
 ## Required Libraries
 Python libraries:
-	--> SnowballStemmer
-	--> xml.sax parser
-	--> pickle
+	1) SnowballStemmer
+	2) xml.sax parser
 
 ## WikiIndexer
 #### Preprocessing the wikidump
